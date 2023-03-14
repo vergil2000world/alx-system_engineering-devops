@@ -1,0 +1,2 @@
+#!/bin/bas
+tr "A" "z" |tr "c" "e"
